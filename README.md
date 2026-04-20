@@ -42,7 +42,7 @@
 <tr>
 <td width="50%">
 
-#### 🎓 [Student Performance Advisor](https://github.com/ShivamTyagi23123/Python-Project)A **machine learning** 
+#### 🎓 [Student Performance Advisor](https://github.com/ShivamTyagi23123/Python-Project)
 GUI app that predicts a student's exam score based on daily habits and provides personalized improvement advice.
 - 🤖 Random Forest + PCA + Linear Regression
 - 📊 Trained on 10,000 student records
