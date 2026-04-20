@@ -42,8 +42,8 @@
 <tr>
 <td width="50%">
 
-#### 🎓 [Student Performance Advisor]
-A **machine learning** GUI app that predicts a student's exam score based on daily habits and provides personalized improvement advice.
+#### 🎓 [Student Performance Advisor](https://github.com/ShivamTyagi23123/Python-Project)A **machine learning** 
+GUI app that predicts a student's exam score based on daily habits and provides personalized improvement advice.
 - 🤖 Random Forest + PCA + Linear Regression
 - 📊 Trained on 10,000 student records
 - 📈 Goal planner, progress tracker, daily checklist
@@ -52,7 +52,7 @@ A **machine learning** GUI app that predicts a student's exam score based on dai
 </td>
 <td width="50%">
 
-#### ⚡ [Sorting & Searching Analyzer]
+#### ⚡ [Sorting & Searching Analyzer](https://github.com/ShivamTyagi23123/Python-Project)
 A **performance comparison** GUI tool that runs 5 algorithms side-by-side and visualizes their metrics.
 - 📊 Bubble, Selection, Insertion Sort
 - 🔍 Linear & Binary Search
@@ -64,7 +64,7 @@ A **performance comparison** GUI tool that runs 5 algorithms side-by-side and vi
 <tr>
 <td width="50%">
 
-#### 🔧 [C Data Structures]
+#### 🔧 [C Data Structures](https://github.com/ShivamTyagi23123/-C-Data-Structures)
 Implementations of core data structures in **C** — built from scratch.
 - 🌳 Binary Search Tree (BST)
 - 📚 Stack, Queue, Circular Queue, Priority Queue
