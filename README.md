@@ -28,6 +28,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,11 +75,12 @@ Implementations of core data structures in **C** — built from scratch.
 </td>
 <td width="50%">
 
-#### 🤖 [More Coming Soon...](https://github.com/ShivamTyagi23123)
-Always building and learning new things!
-- 🧠 Exploring AI/ML
-- 🌐 Interested in web development
-- 🔬 Open to collaborations
+#### 📈 [Hypixel Bazaar AI Bot](https://github.com/ShivamTyagi23123/bazaar_trader)
+I play a lot of SkyBlock, so I built this for fun to learn AI/ML! A live trading bot using **LightGBM** to predict game economy prices.
+- 🤖 Built a Machine Learning model from scratch
+- 📈 Real-time market manipulation detection
+- 💻 Live Hacker-style terminal dashboard
+- 🚀 Expect more AI/ML projects soon!
 
 </td>
 </tr>
